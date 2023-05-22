@@ -1,0 +1,15 @@
+C:\Users\a.taranovich\source\repos\dijkstra\DijkstraAlgorithm\DijkstraAlgorithm\bin\Debug\net6.0\DijkstraAlgorithm.exe
+C:\Users\a.taranovich\source\repos\dijkstra\DijkstraAlgorithm\DijkstraAlgorithm\bin\Debug\net6.0\DijkstraAlgorithm.deps.json
+C:\Users\a.taranovich\source\repos\dijkstra\DijkstraAlgorithm\DijkstraAlgorithm\bin\Debug\net6.0\DijkstraAlgorithm.runtimeconfig.json
+C:\Users\a.taranovich\source\repos\dijkstra\DijkstraAlgorithm\DijkstraAlgorithm\bin\Debug\net6.0\DijkstraAlgorithm.dll
+C:\Users\a.taranovich\source\repos\dijkstra\DijkstraAlgorithm\DijkstraAlgorithm\bin\Debug\net6.0\DijkstraAlgorithm.pdb
+C:\Users\a.taranovich\source\repos\dijkstra\DijkstraAlgorithm\DijkstraAlgorithm\obj\Debug\net6.0\DijkstraAlgorithm.csproj.AssemblyReference.cache
+C:\Users\a.taranovich\source\repos\dijkstra\DijkstraAlgorithm\DijkstraAlgorithm\obj\Debug\net6.0\DijkstraAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.taranovich\source\repos\dijkstra\DijkstraAlgorithm\DijkstraAlgorithm\obj\Debug\net6.0\DijkstraAlgorithm.AssemblyInfoInputs.cache
+C:\Users\a.taranovich\source\repos\dijkstra\DijkstraAlgorithm\DijkstraAlgorithm\obj\Debug\net6.0\DijkstraAlgorithm.AssemblyInfo.cs
+C:\Users\a.taranovich\source\repos\dijkstra\DijkstraAlgorithm\DijkstraAlgorithm\obj\Debug\net6.0\DijkstraAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\a.taranovich\source\repos\dijkstra\DijkstraAlgorithm\DijkstraAlgorithm\obj\Debug\net6.0\DijkstraAlgorithm.dll
+C:\Users\a.taranovich\source\repos\dijkstra\DijkstraAlgorithm\DijkstraAlgorithm\obj\Debug\net6.0\refint\DijkstraAlgorithm.dll
+C:\Users\a.taranovich\source\repos\dijkstra\DijkstraAlgorithm\DijkstraAlgorithm\obj\Debug\net6.0\DijkstraAlgorithm.pdb
+C:\Users\a.taranovich\source\repos\dijkstra\DijkstraAlgorithm\DijkstraAlgorithm\obj\Debug\net6.0\DijkstraAlgorithm.genruntimeconfig.cache
+C:\Users\a.taranovich\source\repos\dijkstra\DijkstraAlgorithm\DijkstraAlgorithm\obj\Debug\net6.0\ref\DijkstraAlgorithm.dll
